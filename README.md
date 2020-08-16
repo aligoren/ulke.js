@@ -9,7 +9,7 @@ ulke.run()
 
 ## Example Output
 
-```json
+```js
 {
   adalet: undefined,
   basinOzgurlugu: undefined,
